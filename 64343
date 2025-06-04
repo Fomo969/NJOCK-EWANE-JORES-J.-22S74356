@@ -1,0 +1,14 @@
+
+link-icon{
+    text-decoration:none;/*
+    supprime le soulignement du lien*/
+    color:black;/*couleur du texte*/
+    display:flex;/*utilise Flexbox pour aligner l icone et le texte*/
+    align-items:center/*centre l icone et le texte verticalement
+    }
+    .icon{
+    margin-right:8px;/*
+    ajoute un espace entre l icone et le texte*/
+    widht 20px
+    height 20px;
+   }
