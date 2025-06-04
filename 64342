@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<html>
+<head>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content ="widht=devise-widht,initial-scale=1.0">
+  <title>liens avec icones</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a
+    href="https://www.example.com"class="link-icon">
+    <img src="image/5956592.png"
+      alt="icone"class="icon">Mon lien
+    </a>
+</body>
+</html>
