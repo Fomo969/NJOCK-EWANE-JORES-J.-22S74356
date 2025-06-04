@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>photos!</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+<div class="grid-container">
+  <div class="grid-item">
+    <img src="image/1726062677765.jpg" alt="Photo 1">
+  </div>
+  <div class="grid-item">
+    <img src="image/1726062687087.jpg" alt="Photo 2">
+  </div>
+  <div class="grid-item">
+    <img src="image/1726062696481.jpg" alt="Photo 3">
+  </div>
+  <div class="grid-item">
+    <img src="image/1726062709015.jpg " alt="Photo 4">
+  </div>
+  
+  
+</body><div class="grid-item">
+  <img src=" image/1729549031155.jpg" alt="Photo 5">
+</div>
+</html>
